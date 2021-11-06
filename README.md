@@ -17,6 +17,7 @@ To edit this repository in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/bupboi1337/doot** and click import
+* call the function "doot" to activate the funny
 
 ## Blocks preview
 
