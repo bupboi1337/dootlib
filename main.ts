@@ -1,4 +1,4 @@
-function doom () {
+function doot () {
     for (let index = 0; index < 99999; index++) {
         music.playTone(165, music.beat(BeatFraction.Quarter))
         basic.pause(30)
@@ -37,6 +37,7 @@ function doom () {
         basic.pause(30)
         music.playTone(165, music.beat(BeatFraction.Quarter))
         music.playTone(233, music.beat(BeatFraction.Whole))
+        basic.pause(100)
     }
 }
 basic.showLeds(`
@@ -46,4 +47,4 @@ basic.showLeds(`
     . # . . .
     . # . . .
     `)
-doom()
+doot()
