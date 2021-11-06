@@ -45,17 +45,11 @@ function doot () {
         }
     }
 }
-input.onButtonPressed(Button.A, function () {
-    stahp()
-})
 // play the "doot" function after it was disabled by the "stahp" function
 function resume () {
     soup = 0
     doot()
 }
-input.onButtonPressed(Button.B, function () {
-    resume()
-})
 // stop the main functionality of the "doot" function
 function stahp () {
     soup = 1
