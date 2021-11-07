@@ -49,6 +49,7 @@ function doot () {
 function resume () {
     soup = 0
     doot()
+    return 0
 }
 // stop the main functionality of the "doot" function
 function stahp () {
