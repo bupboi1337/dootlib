@@ -1,3 +1,4 @@
+let soup = 0
 // play doot
 function doot () {
     for (let index = 0; index < 99999; index++) {
@@ -56,13 +57,3 @@ function stahp () {
     soup = 1
     return 0
 }
-// boot-loader for the "doot" function
-let soup = 0
-basic.showLeds(`
-    . # # # .
-    . # . . .
-    . # # # .
-    . # . . .
-    . # . . .
-    `)
-doot()
