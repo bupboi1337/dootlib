@@ -10,6 +10,12 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/bupboi1337/doot** and import
 
+## Functions
+
+* doot - Starts playing funny
+* stahp - stops the funny
+* resume - resumes the funny
+
 ## Edit this project ![Build status badge](https://github.com/bupboi1337/doot/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
@@ -17,7 +23,6 @@ To edit this repository in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/bupboi1337/doot** and click import
-* call the function "doot" to activate the funny
 
 ## Blocks preview
 
